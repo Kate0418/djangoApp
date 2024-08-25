@@ -1,4 +1,4 @@
-# モテ活アプリ!!
+# Djangoアプリ!!
 ### このコマンドを実行するとdjangoAppディレクトリーが生成されます。
 ```
 git clone https://github.com/Kate0418/djangoApp.git
